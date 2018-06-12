@@ -1,0 +1,72 @@
+E:\Week 2\Project 2\Project 2\bin\Debug\Project 2.exe.config
+E:\Week 2\Project 2\Project 2\bin\Debug\Project 2.exe
+E:\Week 2\Project 2\Project 2\bin\Debug\Project 2.pdb
+E:\Week 2\Project 2\Project 2\bin\Debug\DnsClient.dll
+E:\Week 2\Project 2\Project 2\bin\Debug\MongoDB.Bson.dll
+E:\Week 2\Project 2\Project 2\bin\Debug\MongoDB.Driver.Core.dll
+E:\Week 2\Project 2\Project 2\bin\Debug\MongoDB.Driver.dll
+E:\Week 2\Project 2\Project 2\bin\Debug\System.Buffers.dll
+E:\Week 2\Project 2\Project 2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Week 2\Project 2\Project 2\bin\Debug\DnsClient.xml
+E:\Week 2\Project 2\Project 2\bin\Debug\MongoDB.Bson.xml
+E:\Week 2\Project 2\Project 2\bin\Debug\MongoDB.Driver.xml
+E:\Week 2\Project 2\Project 2\bin\Debug\MongoDB.Driver.Core.xml
+E:\Week 2\Project 2\Project 2\obj\Debug\Project 2.csprojResolveAssemblyReference.cache
+E:\Week 2\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+E:\Week 2\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.Cache
+E:\Week 2\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+E:\Week 2\Project 2\Project 2\obj\Debug\Project 2.exe
+E:\Week 2\Project 2\Project 2\obj\Debug\Project 2.pdb
+F:\Week 2\Project 2\Project 2\bin\Debug\Project 2.exe.config
+F:\Week 2\Project 2\Project 2\bin\Debug\Project 2.exe
+F:\Week 2\Project 2\Project 2\bin\Debug\Project 2.pdb
+F:\Week 2\Project 2\Project 2\bin\Debug\DnsClient.dll
+F:\Week 2\Project 2\Project 2\bin\Debug\MongoDB.Bson.dll
+F:\Week 2\Project 2\Project 2\bin\Debug\MongoDB.Driver.Core.dll
+F:\Week 2\Project 2\Project 2\bin\Debug\MongoDB.Driver.dll
+F:\Week 2\Project 2\Project 2\bin\Debug\System.Buffers.dll
+F:\Week 2\Project 2\Project 2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Week 2\Project 2\Project 2\bin\Debug\DnsClient.xml
+F:\Week 2\Project 2\Project 2\bin\Debug\MongoDB.Bson.xml
+F:\Week 2\Project 2\Project 2\bin\Debug\MongoDB.Driver.xml
+F:\Week 2\Project 2\Project 2\bin\Debug\MongoDB.Driver.Core.xml
+F:\Week 2\Project 2\Project 2\obj\Debug\Project 2.csprojResolveAssemblyReference.cache
+F:\Week 2\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+F:\Week 2\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+F:\Week 2\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+F:\Week 2\Project 2\Project 2\obj\Debug\Project 2.csproj.CopyComplete
+F:\Week 2\Project 2\Project 2\obj\Debug\Project 2.exe
+F:\Week 2\Project 2\Project 2\obj\Debug\Project 2.pdb
+F:\Week 2\Project 2\Project 2\obj\Debug\Project_2.frmMemoryscape.resources
+E:\Week 2\Project 2\Project 2\obj\Debug\Project_2.frmMemoryscape.resources
+C:\Users\mrjay\Desktop\Week 2\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\mrjay\Desktop\Week 2\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\Users\mrjay\Desktop\Week 2\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\Users\mrjay\Desktop\Week 2\Project 2\Project 2\bin\Debug\DnsClient.dll
+C:\Users\mrjay\Desktop\Week 2\Project 2\Project 2\bin\Debug\MongoDB.Bson.dll
+C:\Users\mrjay\Desktop\Week 2\Project 2\Project 2\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\mrjay\Desktop\Week 2\Project 2\Project 2\bin\Debug\MongoDB.Driver.dll
+C:\Users\mrjay\Desktop\Week 2\Project 2\Project 2\bin\Debug\System.Buffers.dll
+C:\Users\mrjay\Desktop\Week 2\Project 2\Project 2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mrjay\Desktop\Week 2\Project 2\Project 2\bin\Debug\DnsClient.xml
+C:\Users\mrjay\Desktop\Week 2\Project 2\Project 2\bin\Debug\MongoDB.Bson.xml
+C:\Users\mrjay\Desktop\Week 2\Project 2\Project 2\bin\Debug\MongoDB.Driver.xml
+C:\Users\mrjay\Desktop\Week 2\Project 2\Project 2\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\mrjay\Desktop\Week 2\Project 2\Project 2\obj\Debug\Project 2.csprojResolveAssemblyReference.cache
+C:\Users\mrjay\Desktop\Week 2\Project 2\Project 2\obj\Debug\Project_2.frmMemoryscape.resources
+C:\Users\mrjay\Desktop\Week 2\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\mrjay\Desktop\Week 2\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+C:\Users\mrjay\Desktop\Week 2\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\mrjay\Desktop\Week 2\Project 2\Project 2\obj\Debug\Project 2.csproj.CopyComplete
+C:\Users\mrjay\Desktop\Week 2\Project 2\Project 2\obj\Debug\Project 2.exe
+C:\Users\mrjay\Desktop\Week 2\Project 2\Project 2\obj\Debug\Project 2.pdb
+C:\Users\mrjay\Desktop\Submission Week 2\P2\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\mrjay\Desktop\Submission Week 2\P2\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\Users\mrjay\Desktop\Submission Week 2\P2\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\Users\mrjay\Desktop\Submission Week 2\P2\Project 2\Project 2\obj\Debug\Project 2.csprojResolveAssemblyReference.cache
+C:\Users\mrjay\Desktop\Submission Week 2\P2\Project 2\Project 2\obj\Debug\Project_2.frmMemoryscape.resources
+C:\Users\mrjay\Desktop\Submission Week 2\P2\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\mrjay\Desktop\Submission Week 2\P2\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+C:\Users\mrjay\Desktop\Submission Week 2\P2\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\mrjay\Desktop\Submission Week 2\P2\Project 2\Project 2\obj\Debug\Project 2.exe
+C:\Users\mrjay\Desktop\Submission Week 2\P2\Project 2\Project 2\obj\Debug\Project 2.pdb
